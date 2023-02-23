@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes in each html file in ./gutenberg:
 
+Removed contents from style tag and added link to style sheet:
+
+<link rel="stylesheet" type="text/css"  href="styles.css">
